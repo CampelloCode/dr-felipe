@@ -289,6 +289,7 @@ footer{
     flex-direction: column;
     text-align: center;
     justify-content: space-around;
+    margin-top: clamp(8rem, 13vw, 15rem);
 }
 
 .txt-f{
@@ -354,4 +355,5 @@ footer{
     .areas{
         grid-template-columns: 1fr;
     }
+
 }
